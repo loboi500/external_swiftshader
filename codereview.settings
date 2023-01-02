@@ -1,4 +1,3 @@
-# This file is used by git cl to get repository specific information.
-PROJECT: swiftshader
-GERRIT_HOST: True
-GERRIT_SQUASH_UPLOADS: False
+version https://git-lfs.github.com/spec/v1
+oid sha256:87072b9d0eb6d0d9b74ff7947660dca434cec0c4120789c7307c42aac1a0b721
+size 138
